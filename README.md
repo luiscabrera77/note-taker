@@ -17,7 +17,7 @@ Deployed in Heroku here: https://glacial-basin-32865.herokuapp.com/
 - [Usage](#usage)
 - [License](#license)
 - [Testing](#testing)
-- [Acceptance Criteria](#Acceptance Criteria)
+- [Acceptance-Criteria](#Acceptance-Criteria)
 - [Questions](#questions)
 
 ## Installation
@@ -52,7 +52,7 @@ SOFTWARE.
 ## Testing
 Use Insomnia Core or Postman to run local tests.
 
-## Acceptance Criteria
+## Acceptance-Criteria
 - GIVEN a note-taking application
 - WHEN I open the Note Taker
 - THEN I am presented with a landing page with a link to a notes page
