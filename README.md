@@ -5,23 +5,26 @@
 ## Description
 ![badge](https://img.shields.io/badge/license-MIT-blue)
 
-An application that can be used to write and save notes. This application uses an Express.js back end and will save and retrieve note data from a JSON file. Deployed in Heroku.
+An application that can be used to write and save notes. This application uses an Express.js back end and will save and retrieve note data from a JSON file. 
 
-![Screenshot](copy here URL of your app screenshot)
+Deployed in Heroku here: https://glacial-basin-32865.herokuapp.com/
+
+![Screenshot](https://user-images.githubusercontent.com/54341829/116036644-a3189080-a62c-11eb-9c1c-aa8173e683c0.png)
+
 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributing](#contributing)
+- [Testing](#testing)
 - [Acceptance Criteria](#Acceptance Criteria)
 - [Questions](#questions)
 
 ## Installation
-TBD
+Install NPM (npm init -y), Express (npm i express), Uniqid - to create Unique IDs (npm install uniqid), and optionally, install Nodemon to restart the server automatically (npm install -g nodemon). 
 
 ## Usage
-TBD
+If you installed Nodemon, type "nodemon server" in the terminal. Otherwise, start server by typing "npm start". 
 
 ## License
 
@@ -46,11 +49,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
 SOFTWARE.
 
-
-## Contributing
-If you would like to contribute to this project:
-
-**ES6 and stay in Express.js / Heroku please.**
+## Testing
+Use Insomnia Core or Postman to run local tests.
 
 ## Acceptance Criteria
 - GIVEN a note-taking application
