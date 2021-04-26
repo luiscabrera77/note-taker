@@ -9,7 +9,7 @@ An application that can be used to write and save notes. This application uses a
 
 Deployed in Heroku here: https://glacial-basin-32865.herokuapp.com/
 
-![Screenshot](https://user-images.githubusercontent.com/54341829/116036644-a3189080-a62c-11eb-9c1c-aa8173e683c0.png)
+![Screenshot](https://user-images.githubusercontent.com/54341829/116116101-624a6700-a680-11eb-92ba-478999b259bd.gif)
 
 
 ## Table of Contents
